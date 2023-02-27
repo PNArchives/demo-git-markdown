@@ -1,5 +1,5 @@
 ### Test Suite Name
-Suite A
+Suite A modified
 
 ### Test Suite Description
-Suite A Description
+Suite A Description modified

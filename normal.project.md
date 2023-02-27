@@ -1,5 +1,5 @@
 ### Test Project Name
-Test Tool Test
+TTT
 
 ### Test Project Description
-インポート系のテストを行うためのプロジェクトです
+TTT インポート系のテストを行うためのプロジェクトです
